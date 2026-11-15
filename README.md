@@ -1,3 +1,3 @@
 # my-first-project
 My first GitHub project
-learnig
+I completed GitHub Lesson 10.
